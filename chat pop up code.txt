@@ -119,3 +119,4 @@ Adding Code for calls featers
     </application>  
   
 </manifest>  
+New Feature Hiding last seen 
